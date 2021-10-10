@@ -1,4 +1,4 @@
-# title(){This.MY Chrome Extension}
+# console.log (MY Chrome Extension)
 
 ## Supporting Scrimba
 
